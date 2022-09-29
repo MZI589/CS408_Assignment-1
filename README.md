@@ -3,8 +3,10 @@ Particle System by Unity
 
 r for increase red value;
 e for decrease red value;
+
 g for increase green value;
 f for decrease green value;
+
 b for increase blue value;
 v for decrease blue value;
 
