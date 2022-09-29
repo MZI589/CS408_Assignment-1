@@ -1,6 +1,8 @@
 # CS408_Assignment-1
 Particle System by Unity
 
+Three file inside the Assests, which is Modify, Movement and CameraControl;
+
 r for increase red value;
 e for decrease red value;
 
