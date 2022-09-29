@@ -1,4 +1,10 @@
 # CS408_Assignment-1
+GitHub username: MZI589;
+
+MINGSHI ZHANG;
+
+#200404541
+
 Particle System by Unity
 
 Three file inside the Assests, which is Modify, Movement and CameraControl;
